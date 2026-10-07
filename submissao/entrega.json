@@ -1,13 +1,12 @@
 {
   "turma": "12DTAT",
-  "grupo": "Grupo 00",
+  "grupo": "Grupo 03",
   "integrantes": [
-    { "nome": "Nome Completo do Integrante", "rm": "RM000000" },
-    { "nome": "Nome Completo do Integrante", "rm": "RM000000" }
+    { "nome": "Camila Varella Barca Ribeiro", "rm": "RM377839" }
   ],
   "links": {
-    "repositorio": "https://github.com/usuario/nome-do-repositorio",
-    "video": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
-    "apresentacao": "https://github.com/usuario/nome-do-repositorio/blob/main/docs/apresentacao_executiva.pdf"
+    "repositorio": "https://github.com/camilavbr/Tech_Challenge_Fase2_rm377839",
+    "video": "https://drive.google.com/file/d/1al-Qip98RyELLP3VXPURCEEG5eNSSWcM/view?usp=sharing",
+    "apresentacao": "https://github.com/camilavbr/Tech_Challenge_Fase2_rm377839/blob/main/docs/apresentacao_executiva.pdf"
   }
 }
